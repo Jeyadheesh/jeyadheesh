@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeyadheesh N</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyadheesh&label=Profile%20views&color=0e75b6&style=flat" alt="jeyadheesh" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-jeyadheesh.vercel.app/](https://portfolio-jeyadheesh.vercel.app/)
 
 - 📫 How to reach me **jeyadheesh.nagarajan@gmail.com**
@@ -20,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeyadheesh&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeyadheesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeyadheesh&show_icons=true&locale=en" alt="jeyadheesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeyadheesh&show_icons=true&theme=dark&locale=en" alt="jeyadheesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeyadheesh&theme=dark" alt="jeyadheesh" /></p>
