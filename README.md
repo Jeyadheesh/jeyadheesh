@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeyadheesh N</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img src="./animatedGif.gif" alt="gif"  width="800" align="center" />
+<div align="center">
+  <img src="./animatedGif.gif" alt="gif"  width="800"/>
+</div>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jeyadheesh.vercel.app/](https://portfolio-jeyadheesh.vercel.app/)
 
